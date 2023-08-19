@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tradx-dashboard/static/css/main.07a6e487.css",
+    "main.js": "/tradx-dashboard/static/js/main.c2977e24.js",
+    "static/media/user.png": "/tradx-dashboard/static/media/user.16d4e32ca122e2c539cc.png",
+    "index.html": "/tradx-dashboard/index.html",
+    "main.07a6e487.css.map": "/tradx-dashboard/static/css/main.07a6e487.css.map",
+    "main.c2977e24.js.map": "/tradx-dashboard/static/js/main.c2977e24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07a6e487.css",
+    "static/js/main.c2977e24.js"
+  ]
+}
